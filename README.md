@@ -1,2 +1,2 @@
 # RhombixTechnologies_Tasks
-Collection of Python Development and Machine Learning projects completed during my internship at Rhombix Technologies.
+Collection of Python Development projects completed during my internship at Rhombix Technologies.
