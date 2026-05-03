@@ -65,13 +65,13 @@ Hangman-Elite/
 
 ## 🖼️ Screenshots  
 
-![Game Screenshot](images/screenshot(35).png)  
+![Game Screenshot](images/1.png)  
 
-![Game Screenshot](images/screenshot(36).png)  
+![Game Screenshot](images/2.png)  
 
-![Game Screenshot](images/screenshot(38).png)  
+![Game Screenshot](images/3.png)  
 
-![Game Screenshot](images/screenshot(37).png)  
+![Game Screenshot](images/4.png)  
 ---
 
 ## 🌟 Future Improvements
